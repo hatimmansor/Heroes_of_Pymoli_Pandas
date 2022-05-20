@@ -5,11 +5,11 @@ using some of the Python Pandas functions
 Using Python Pandas to analyse a gaming company row data and generate reports, row data have been provided over csv file and contain some of the players name and age, games names and price and some of identification fields.
 
 ### types of report
-<br>
-* Number of plyers
+
+* Number of plyers<br>
 <kbd><img src="https://user-images.githubusercontent.com/24882457/169520035-354c76c8-28db-448f-86c9-207df55d3c76.png"></kbd>
-<br>
-* Total number of Purchases
+
+* Total number of Purchases<br>
 <kbd><img src="https://user-images.githubusercontent.com/24882457/169520086-773839cf-2b9c-4f5c-ae46-567f06451793.png" ></kbd>
 <br>
 * Gender demographics 
