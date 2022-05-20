@@ -9,7 +9,7 @@ Using Python Pandas to analyse a gaming company row data and generate reports, r
 <img src="https://user-images.githubusercontent.com/24882457/169520035-354c76c8-28db-448f-86c9-207df55d3c76.png" style="border: 5px solid #555">
 
 * Total number of Purchases
-<img src="https://user-images.githubusercontent.com/24882457/169520086-773839cf-2b9c-4f5c-ae46-567f06451793.png">
+<img src="https://user-images.githubusercontent.com/24882457/169520086-773839cf-2b9c-4f5c-ae46-567f06451793.png" border="thick solid #0000FF">
 
 * Gender demographics ![image](https://user-images.githubusercontent.com/24882457/169520153-17209126-904b-44ab-b2fb-fd343be6d2f9.png)
 
