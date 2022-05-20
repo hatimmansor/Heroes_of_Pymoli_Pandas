@@ -11,20 +11,20 @@ Using Python Pandas to analyse a gaming company row data and generate reports, r
 
 * Total number of Purchases<br>
 <kbd><img src="https://user-images.githubusercontent.com/24882457/169520086-773839cf-2b9c-4f5c-ae46-567f06451793.png" ></kbd>
-<br>
-* Gender demographics 
+
+* Gender demographics<br> 
 <kbd><img src="https://user-images.githubusercontent.com/24882457/169520153-17209126-904b-44ab-b2fb-fd343be6d2f9.png"></kbd>
 
-* Purchasing report depend on Age 
+* Purchasing report depend on Age<br>
 <kbd>![image](https://user-images.githubusercontent.com/24882457/169520207-6c5cf4e4-7427-436a-b547-3b971a16b6ec.png)</kbd>
 
-* Age bins analysing report 
+* Age bins analysing report<br>
 <kbd>![image](https://user-images.githubusercontent.com/24882457/169520256-f9f523d2-6f28-4afb-8d79-f4621d33b0c1.png)</kbd>
 
-* Top spender 
+* Top spender<br>
 <kbd>![image](https://user-images.githubusercontent.com/24882457/169520344-6c4dcaa2-a9c2-42fd-8202-688447694b7a.png)</kbd>
 
-* Most popular item 
+* Most popular item <br>
 <kbd>![image](https://user-images.githubusercontent.com/24882457/169520398-5e00a672-3fdb-417e-9583-6a5a3db90785.png)</kbd>
 
 
