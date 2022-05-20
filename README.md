@@ -11,7 +11,8 @@ Using Python Pandas to analyse a gaming company row data and generate reports, r
 * Total number of Purchases
 <img src="https://user-images.githubusercontent.com/24882457/169520086-773839cf-2b9c-4f5c-ae46-567f06451793.png" border="thick solid #0000FF">
 
-* Gender demographics ![image](https://user-images.githubusercontent.com/24882457/169520153-17209126-904b-44ab-b2fb-fd343be6d2f9.png)
+* Gender demographics 
+<kbd><img src="https://user-images.githubusercontent.com/24882457/169520153-17209126-904b-44ab-b2fb-fd343be6d2f9.png"></kbd>
 
 * Purchasing report depend on Age ![image](https://user-images.githubusercontent.com/24882457/169520207-6c5cf4e4-7427-436a-b547-3b971a16b6ec.png)
 
